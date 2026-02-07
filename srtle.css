@@ -309,6 +309,7 @@ margin-top: 20px;
 	width: 380px;
 	height: 40px;
 	background-color: black;
+	border: none;
 }
 .pQuick{
 	font-size: 18px;
@@ -329,6 +330,11 @@ margin-top: 20px;
 	display: flex;
 	flex-direction: column;
 	row-gap: 20px;
+}
+.flexxx{
+	display: flex;
+	align-items: center;
+	border: 1px solid rgba(128, 128, 128, 0.61);
 }
 @media (max-width:510px) {
 .pHome{
@@ -360,6 +366,10 @@ width: 360px;
 .pSecure{
 	font-size:16px ;
 	font-weight: 400;
+	width: 360px;
+}
+.secthreee{
+	margin-top: 20px;
 }
 .mainGlav{
 	margin-top: 70px;
@@ -409,6 +419,6 @@ width: 360px;
 	margin-top: 30px;
 }
 .divclarity{
-	width: 440px;
+	width: 300px;
 }
 }

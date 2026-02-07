@@ -1,0 +1,414 @@
+*
+{
+	margin: 0;
+	font-family: sans-serif;
+}
+.pNeo{
+	font-size: 22px;
+	font-weight: 500;
+	color: white;
+
+}
+.header{
+
+
+	
+	
+}
+.headerChild{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+	
+	
+}
+.first{
+	display: flex;
+align-items: center;
+	width: 120px;
+
+	gap: 20px;
+}
+.pHome{
+	font-size: 16px;
+	font-weight: 400;
+	color:#E5E5E5 ;
+}
+.pFeatures{
+	font-size: 16px;
+	font-weight: 400;
+	color:#999999;
+}
+.pTry{
+	font-size: 16px;
+	font-weight: 400;
+	color: Black;
+	width: 140px;
+	height: 40px;
+	border-radius: 40px;
+	background-color:#9DFF3A ;
+	border: none;
+}
+.first1{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+.mainGlav{
+
+	width: 100%;
+
+}
+.firstSection{
+	width: 100%;
+	height: 600px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.but1{
+	width: 136px;
+	height: 37px;
+	color: #9DFF3A;
+	background-color: black;
+	border-radius: 24px;
+
+}
+.sec1{
+	display: flex;
+	flex-direction: column;
+	row-gap: 30px;
+}
+.pRevolutionizing{
+	font-size: 64px;
+	font-weight: 700;
+	color:#E5E5E5 ;
+	width: 600px;
+}
+.pSecure{
+	font-size: 20px;
+	font-weight: 400;
+	color: #D8D8D8;width: 580px;
+}
+.but2{
+	font-size: 18px;
+	font-weight: 400;
+	color: black;
+	background-color: #9DFF3A;
+	width: 150px;
+	height: 50px;
+	border-radius: 30px;
+	border: none;
+}
+.but3{
+	font-size: 18px;
+	font-weight: 400;
+color: white;
+	width:190px ;
+	height: 50px;
+	background-color: black;
+	border-radius: 40px;
+}
+.pSecure{
+
+}
+body{
+	background-color: black;
+}
+.pSatisfied{
+	font-size: 16px;
+	font-weight: 400;
+	color: #999999;
+	text-align: center;
+}
+.pLogo{
+	font-size: 20px;
+	font-weight: 600;
+	color: #999999;
+}
+.flexBox{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	margin-top: 30px;
+
+}
+.second1{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.butStatistics{
+	font-size:14px ;
+	font: weight 400;
+	color: #9DFF3A;
+	width:104px ;
+	height: 41px;
+background-color: black;
+border-radius: 30px;
+margin: auto;
+}
+.pCom{
+	font-size:48px ;
+	font-weight:400 ;
+	color: #E5E5E5;
+
+}
+.Plead{
+	font-size:18px ;
+	font-weight:400 ;
+	width: 644px;
+	color: #999999;
+	margin: auto;
+}
+.p2million{
+	font-size: 48px;
+	font-weight: 400;
+	color: #9DFF3A;
+}
+.puserr{
+	font-size: 20px;
+	font-weight: 400;
+	color: #999999;
+}
+.threeAdd{
+	display: flex;gap: 30px;
+}
+.SectionThree{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin: auto;
+	row-gap: 40px;
+	margin-top: 100px;
+}
+.three1{
+	display: flex;
+	flex-direction: column;
+	row-gap: 30px;
+	text-align: center;
+	margin: auto;
+	justify-content: center;
+}
+.sectionFour{
+	margin-top: 30px;
+}
+.Fourchild2{
+	
+}
+
+.pConnectivity{
+	font-size:20px ;
+	font-weight: 400;
+	color:white ;
+
+}
+.pUbiquity{
+	font-size:16px ;
+	font-weight: 400;
+	color: #999999;
+	width:528px;
+}
+.Fourchild2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 30px;
+}
+.fourcha{
+	display: flex;
+	gap: 20px;
+	border: 1px solid  grey;
+	padding: 21px;
+	border-radius: 10px;
+
+}
+.img00{
+	width: 30px;
+	height: 30px;
+}
+.divfour{
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+.pElena{
+	/* font-size: ; */
+	width: 300px;
+	color: white
+
+}
+.pai{
+	width:300px ;
+	color: #EDEDF2;
+}
+.pFlex{
+	display: flex;
+	align-items: center;
+	gap:20px;
+}
+.pBorder{
+	border: 1px solid rgba(128, 128, 128, 0.452);
+	width: 300px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.pBorder1{
+	border: 1px solid rgba(128, 128, 128, 0.452);
+	width: 300px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.FiveChild{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+width: 90%;
+gap: 20px;
+margin: auto;
+margin-top: 20px;
+}
+.divclarity{
+	display: flex;
+	align-items: center;
+	border: 1px solid rgba(128, 128, 128, 0.495);
+	width: 670px;
+	height: 46px;
+	justify-content: space-between;
+	padding: 10px;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+.pWhat{
+	font-size: 16px;
+	font-weight: 400;
+	color: white;
+
+}
+.Fivedivv{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.Butstat{
+	width:150px ;
+	height: 50px;
+	color:black ;
+	background-color: #9DFF3A;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	margin: auto;
+}
+.sixChild{
+	margin-top: 30px;
+}
+.inputcha{
+	width: 380px;
+	height: 40px;
+	background-color: black;
+}
+.pQuick{
+	font-size: 18px;
+	font-weight: 600;
+	color: #E5E5E5;
+}
+.phomee{
+	font-size: 14px;
+	font-weight: 400;
+	color: #999999;
+}
+.footerGlavniy{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 30px;
+}
+.divfooter{
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+@media (max-width:510px) {
+.pHome{
+	display: none;
+}
+.pFeatures{
+	display: none;
+}
+.pTry{
+	display: none;
+}
+.firstSection{
+	flex-direction: column;
+	row-gap: 30px;
+	
+}
+.pRevolutionizing{
+font-size: 40px;
+width: 360px;
+}
+.sec1{
+	align-items: center;
+
+}
+.img01{
+	width: 300px;
+	height: 300px;
+}
+.pSecure{
+	font-size:16px ;
+	font-weight: 400;
+}
+.mainGlav{
+	margin-top: 70px;
+}
+.sectionSecond{
+	width: 100%;
+}
+.second1{
+	flex-wrap: wrap;
+}
+.flexBox{
+	width: 107px;
+	gap: 9px;
+}
+.pLogo{
+	font-size: 12px;
+}
+.pCom{
+	font-size: 28px;
+	width: 300px;
+	margin: auto;
+}
+.SectionThree{
+	width: 100%;
+}
+.Plead{
+	font-size: 14px;
+	width: 360px;
+	margin: auto;
+}
+.Fourchild2{
+	flex-direction: column;
+}
+.fourcha{
+	width: 300px;
+}
+.pUbiquity{
+	width: 279px;
+}
+.imgshape{
+	width: 300px;
+}
+.pBorder1{
+	display: none;
+}
+.sectionFive{
+	margin-top: 30px;
+}
+.divclarity{
+	width: 440px;
+}
+}
